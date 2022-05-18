@@ -72,6 +72,7 @@ body{
             border-left: 7px solid;
             border-image: linear-gradient(rgb(234, 0, 255), rgb(252, 40, 2));
             border-image-slice: 1;
+            background-color: white;
         }
         #baby-web{
             border-left: 7px solid;
@@ -82,4 +83,8 @@ body{
             background-image: url("image/exp-bg.png");
             background-repeat: no-repeat;
             background-position: left;
+        }
+        footer{
+            text-align: center;
+            color: black;
         }
